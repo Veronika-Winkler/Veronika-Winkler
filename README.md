@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Veronika-Winkler
-- 🌱 I’m currently learning C++ and bash
+- 🌱 Currently improving my Python and C++ skills
 
 <!---
 Veronika-Winkler/Veronika-Winkler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
